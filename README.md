@@ -90,7 +90,7 @@ docs/
 
 ### Prerequisites
 
-Python 3.12
+Python 3.12+
 PostgreSQL (accessible from the local environment)
 Optional: Docker, local Ollama, dbt CLI
 
